@@ -708,12 +708,24 @@
 					outline: 0;
 				}
 
+
 /*********************************************************************************/
 /* Intro                                                                         */
 /*********************************************************************************/
 
 	#intro {
 		background: url('images/overlay.png'), url('https://dl.dropboxusercontent.com/u/7300909/intro.jpg');
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, bottom center;
+		background-repeat: repeat, no-repeat;
+	}
+/*********************************************************************************/
+/* 2015                                                                        */
+/*********************************************************************************/
+
+	#intro2015 {
+		background: url('images/overlay.png'), url('https://dl.dropboxusercontent.com/u/7300909/ryan/stars.jpeg');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -741,7 +753,73 @@
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
+	
+/*********************************************************************************/
+/* Three                                                                          */
+/*********************************************************************************/
 
+	#three {
+		background: url('images/overlay.png'), url('https://dl.dropboxusercontent.com/u/7300909/ryan/straightroad.jpg');
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+	}
+
+/*********************************************************************************/
+/* Four                                                                          */
+/*********************************************************************************/
+
+	#four {
+		background: url('images/overlay.png'), url('https://dl.dropboxusercontent.com/u/7300909/ryan/code.jpeg');
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+		}
+		
+/*********************************************************************************/
+/* Five                                                                          */
+/*********************************************************************************/
+
+	#five {
+		background: url('images/overlay.png'), url('https://dl.dropboxusercontent.com/u/7300909/ryan/funny.jpg');
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+		}
+
+/*********************************************************************************/
+/* six                                                                         */
+/*********************************************************************************/
+
+	#six {
+		background: url('images/overlay.png'), url('https://dl.dropboxusercontent.com/u/7300909/ryan/healthy.jpg');
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+		}
+		
+/*********************************************************************************/
+/* seven	                                                                        */
+/*********************************************************************************/
+
+	#seven{
+		background: url('images/overlay.png'), url('https://dl.dropboxusercontent.com/u/7300909/ryan/lady.jpg');
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+		}
+		
+/*********************************************************************************/
+/* eight                                                                        */
+/*********************************************************************************/
+
+	#eight{
+		background: url('images/overlay.png'), url('https://dl.dropboxusercontent.com/u/7300909/ryan/sail.jpeg');
+		background-size: 256px 256px, cover;
+		background-attachment: fixed, fixed;
+		background-position: top left, center center;
+		}
+		
 /*********************************************************************************/
 /* Work                                                                          */
 /*********************************************************************************/

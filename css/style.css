@@ -714,7 +714,7 @@
 /*********************************************************************************/
 
 	#intro {
-		background: url('images/overlay.png'), url('https://dl.dropboxusercontent.com/u/7300909/intro.jpg');
+		background: url('images/overlay.png'), url('images/intro.jpg');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
